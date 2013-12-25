@@ -1,6 +1,3 @@
 Test
-<<<<<<< HEAD
-
-=======
 This is a bug.
->>>>>>> parent of 318b983... Adding for test
+Remove me...
